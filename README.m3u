@@ -35,8 +35,12 @@ rtmp://185.102.218.67:80/C20/C20_720P.stream
 rtmp://185.102.218.67:80/C21/C21_720P.stream
 #EXTINF:-1,yes Drama HD
 rtmp://185.102.218.67:80/C41/C41_720P.stream
+#EXTINF:-1,yes Oh HD
+http://192.99.18.85:1935/live/yesmovies2/playlist.m3u8
 #EXTINF:-1,ערוץ 20 
 https://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/playlist.m3u8
+#EXTINF:-1,ערוץ הקניות 
+rtmp://82.80.192.11/shoppingil_ShoppingIL21TVRepeat/_definst_/smil:ShoppingIL21TV_1.stream
 #EXTINF:-1,ערוץ 24 
 http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_800_av-b.m3u8
 #EXTINF:-1,ויוה
