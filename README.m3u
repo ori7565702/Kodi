@@ -1,0 +1,89 @@
+#EXTM3U
+#EXTINF:-1,yes 1 HD
+http://192.99.18.85:1935/live/yesmovies1/playlist.m3u8
+#EXTINF:-1,yes 1 HD
+rtmp://185.102.218.67:80/C1/C1_720P.stream
+#EXTINF:-1,yes 2 HD
+rtmp://185.102.218.67:80/C2/C2_720P.stream
+#EXTINF:-1,yes 3 HD
+rtmp://185.102.218.67:80/C3/C3_720P.stream
+#EXTINF:-1,yes 4 HD
+http://192.99.18.85:1935/live/yesmovies4/playlist.m3u8
+#EXTINF:-1,yes 4 HD
+rtmp://185.102.218.67:80/C4/C4_720P.stream
+#EXTINF:-1,yes 5 HD
+http://192.99.18.85:1935/live/kidsmovies/playlist.m3u8
+#EXTINF:-1,yes 5 HD
+rtmp://185.102.218.67:80/C5/C5_720P.stream
+#EXTINF:-1,yes קולנוע ישראלי HD
+rtmp://185.102.218.67:80/C25/C25_720P.stream
+#EXTINF:-1,yes דוקו HD
+rtmp://185.102.218.67:80/C38/C38_720P.stream
+#EXTINF:-1,ערוץ 9 HD
+http://besttv199.aoslive.it.best-tv.com/hls-live/contactgbs-gostreaming1/_definst_/live.m3u8
+#EXTINF:-1,כאן 11 HD
+http://82.80.192.27/ipbc_IPBCchannel11LVMRepeat/_definst_/smil:IPBCchannel11LVM.smil/playlist.m3u8
+#EXTINF:-1,ערוץ 12 HD
+http://192.99.18.85:1935/live/channel22/playlist.m3u8
+#EXTINF:-1,ערוץ 13 HD
+http://besttv1.aoslive.it.best-tv.com/reshet/studio/index.m3u8
+#EXTINF:-1,ערוץ 14 HD
+http://nana10-hdl-il-sw.ctedgecdn.net/Nana10-Live/amlst:hd_,500,1000,1200,2400,/manifest.m3u8
+#EXTINF:-1,yes Comadey HD
+rtmp://185.102.218.67:80/C20/C20_720P.stream
+#EXTINF:-1,yes Action HD
+rtmp://185.102.218.67:80/C21/C21_720P.stream
+#EXTINF:-1,yes Drama HD
+rtmp://185.102.218.67:80/C41/C41_720P.stream
+#EXTINF:-1,ערוץ 20 
+https://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/playlist.m3u8
+#EXTINF:-1,ערוץ 24 
+http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_800_av-b.m3u8
+#EXTINF:-1,ויוה
+http://192.99.18.85:1935/live/viva/playlist.m3u8
+#EXTINF:-1,ויוה
+rtmp://185.102.218.67:80/C19/C19_720P.stream
+#EXTINF:-1,ויוה פלוס
+http://192.99.18.85:1935/live/vivaplus/playlist.m3u8
+#EXTINF:-1,ויוה פלוס
+rtmp://185.102.218.67:80/C32/C32_720P.stream
+#EXTINF:-1,נשיונאל גיאוגרפיק HD
+rtmp://185.102.218.67:80/C26/C26_720P.stream
+#EXTINF:-1,Discovery HD
+http://192.99.18.85:1935/live/discovery/playlist.m3u8
+#EXTINF:-1,ספורט 1 HD
+rtmp://185.102.218.67:80/C12/C12_720P.stream
+#EXTINF:-1,ספורט 2 HD
+rtmp://185.102.218.67:80/C15/C15_720P.stream
+#EXTINF:-1,ספורט 3 HD
+rtmp://185.102.218.67:80/C18/C18_720P.stream
+#EXTINF:-1,ספורט 4 HD
+rtmp://185.102.218.67:80/C31/C31_720P.stream
+#EXTINF:-1,ספורט 5
+rtmp://185.102.218.67:80/C11/C11_720P.stream
+#EXTINF:-1,ספורט 5 פלוס
+rtmp://185.102.218.67:80/C17/C17_720P.stream
+#EXTINF:-1,ספורט 5 לייב HD
+rtmp://185.102.218.67:80/C13/C13_720P.stream
+#EXTINF:-1,ספורט 5 HD
+rtmp://185.102.218.67:80/C14/C14_720P.stream
+#EXTINF:-1,דיסני גוניור
+rtmp://185.102.218.67:80/C34/C34_720P.stream
+#EXTINF:-1,ניק גוניור
+rtmp://185.102.218.67:80/C23/C23_720P.stream
+#EXTINF:-1,הופ
+rtmp://185.102.218.67:80/C22/C22_720P.stream
+#EXTINF:-1,yes Kidz
+rtmp://185.102.218.67:80/C24/C24_720P.stream
+#EXTINF:-1,ניקאלודיאון
+rtmp://185.102.218.67:80/C45/C45_720P.stream
+#EXTINF:-1,ערוץ הקבלה
+http://edge1.il.kab.tv/rtplive/tv66-heb-high.stream/playlist.m3u8
+#EXTINF:-1,ערוץ מאיר
+rtmp://185.102.218.67:80/C46/C46_720P.stream
+#EXTINF:-1,ערוץ הידברות
+https://stream71.shidur.net/htvlive2/_definst_/smil:live2.smil/playlist.m3u8
+#EXTINF:-1,ערוץ הכנסת
+http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8
+#EXTINF:-1,סדרות קשת HD
+http://keshethlslive-lh.akamaihd.net/i/lin1_1@364366/master.m3u8
