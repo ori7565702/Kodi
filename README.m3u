@@ -79,7 +79,7 @@ rtmp://185.102.218.67:80/C23/C23_720P.stream
 rtmp://185.102.218.67:80/C22/C22_720P.stream
 #EXTINF:-1,yes Kidz
 rtmp://185.102.218.67:80/C24/C24_720P.stream
-#EXTINF:-1 tvg-id="ניקאלודיאון" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/General/nick.png"
+#EXTINF:-1,ניקאלודיאון
 rtmp://185.102.218.67:80/C45/C45_720P.stream
 #EXTINF:-1,ערוץ הקבלה
 http://edge1.il.kab.tv/rtplive/tv66-heb-high.stream/playlist.m3u8
@@ -91,3 +91,5 @@ https://stream71.shidur.net/htvlive2/_definst_/smil:live2.smil/playlist.m3u8
 http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8
 #EXTINF:-1,סדרות קשת HD
 http://keshethlslive-lh.akamaihd.net/i/lin1_1@364366/master.m3u8
+#EXTINF:-1,בובספוג באנגלית
+http://173.208.216.114:8082/live/spongebob/chunks.m3u8?nimblesessionid=1112458&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMy8yMDE3IDU6NDU6MzkgUE0maGFzaF92YWx1ZT1aWW5udHNzQXVpOVJxSHpNcGl1TUVBPT0mdmFsaWRtaW51dGVzPTIw
