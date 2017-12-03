@@ -79,7 +79,7 @@ rtmp://185.102.218.67:80/C23/C23_720P.stream
 rtmp://185.102.218.67:80/C22/C22_720P.stream
 #EXTINF:-1,yes Kidz
 rtmp://185.102.218.67:80/C24/C24_720P.stream
-#EXTINF:-1,ניקאלודיאון
+#EXTINF:-1,ניקאלודיאון tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/General/nick.png"
 rtmp://185.102.218.67:80/C45/C45_720P.stream
 #EXTINF:-1,ערוץ הקבלה
 http://edge1.il.kab.tv/rtplive/tv66-heb-high.stream/playlist.m3u8
