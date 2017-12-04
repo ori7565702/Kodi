@@ -13,8 +13,10 @@ rtmp://185.102.218.67:80/C5/C5_720P.stream
 rtmp://185.102.218.67:80/C25/C25_720P.stream
 #EXTINF:-1,yes דוקו HD
 rtmp://185.102.218.67:80/C38/C38_720P.stream
-#EXTINF:-1,סדרות קשת HD
-http://keshethlslive-lh.akamaihd.net/i/lin1_1@364366/master.m3u8
+#EXTINF:-1,JLTV
+http://52.40.109.131:1935/rtplive/smil:jltv.smil/playlist.m3u8
+#EXTINF:-1,Iland HD
+http://146.185.61.140:1935/ILAND/smil:iland.smil/playlist.m3u8
 #EXTINF:-1,ערוץ 9 HD
 http://besttv199.aoslive.it.best-tv.com/hls-live/contactgbs-gostreaming1/_definst_/live.m3u8
 #EXTINF:-1,כאן 11 HD
@@ -33,6 +35,8 @@ rtmp://185.102.218.67:80/C21/C21_720P.stream
 rtmp://185.102.218.67:80/C41/C41_720P.stream
 #EXTINF:-1,yes Oh HD
 http://192.99.18.85:1935/live/yesmovies2/playlist.m3u8
+#EXTINF:-1,סדרות קשת HD
+http://keshethlslive-lh.akamaihd.net/i/lin1_1@364366/master.m3u8
 #EXTINF:-1,ערוץ 20 
 https://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/playlist.m3u8
 #EXTINF:-1,ערוץ הקניות 
