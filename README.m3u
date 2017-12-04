@@ -13,10 +13,10 @@ rtmp://185.102.218.67:80/C5/C5_720P.stream
 rtmp://185.102.218.67:80/C25/C25_720P.stream
 #EXTINF:-1,yes דוקו HD
 rtmp://185.102.218.67:80/C38/C38_720P.stream
-#EXTINF:-1,אין שידור בערוץ זה
+#EXTINF:-1,סדרות קשת HD
+http://keshethlslive-lh.akamaihd.net/i/lin1_1@364366/master.m3u8
 #EXTINF:-1,ערוץ 9 HD
 http://besttv199.aoslive.it.best-tv.com/hls-live/contactgbs-gostreaming1/_definst_/live.m3u8
-#EXTINF:-1,אין שידור בערוץ זה
 #EXTINF:-1,כאן 11 HD
 http://82.80.192.27/ipbc_IPBCchannel11LVMRepeat/_definst_/smil:IPBCchannel11LVM.smil/playlist.m3u8
 #EXTINF:-1,ערוץ 12 HD
@@ -33,12 +33,10 @@ rtmp://185.102.218.67:80/C21/C21_720P.stream
 rtmp://185.102.218.67:80/C41/C41_720P.stream
 #EXTINF:-1,yes Oh HD
 http://192.99.18.85:1935/live/yesmovies2/playlist.m3u8
-#EXTINF:-1,אין שידור בערוץ זה
 #EXTINF:-1,ערוץ 20 
 https://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/playlist.m3u8
 #EXTINF:-1,ערוץ הקניות 
 rtmp://82.80.192.11/shoppingil_ShoppingIL21TVRepeat/_definst_/smil:ShoppingIL21TV_1.stream
-#EXTINF:-1,אין שידור בערוץ זה
 #EXTINF:-1,ערוץ 24 
 http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_800_av-b.m3u8
 #EXTINF:-1,ויוה
@@ -87,8 +85,6 @@ rtmp://185.102.218.67:80/C46/C46_720P.stream
 https://stream71.shidur.net/htvlive2/_definst_/smil:live2.smil/playlist.m3u8
 #EXTINF:-1,ערוץ הכנסת
 http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8
-#EXTINF:-1,סדרות קשת HD
-http://keshethlslive-lh.akamaihd.net/i/lin1_1@364366/master.m3u8
 #EXTINF:-1,yes 1 HD - מקור נוסף
 http://192.99.18.85:1935/live/yesmovies1/playlist.m3u8
 #EXTINF:-1,yes 4 HD - מקור נוסף
