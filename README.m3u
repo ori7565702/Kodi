@@ -42,7 +42,7 @@ https://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/playlist.m3u8
 #EXTINF:-1,ערוץ הקניות 
 rtmp://82.80.192.11/shoppingil_ShoppingIL21TVRepeat/_definst_/smil:ShoppingIL21TV_1.stream
 #EXTINF:-1,ערוץ החדשות HD
-http://keshethlslive-lh.akamaihd.net/i/c2nsec_1@195268/master.m3u8
+http://keshethlslive-lh.akamaihd.net/i/c2nsec_1@195268/index_2296_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1,JLTV
 http://52.40.109.131:1935/rtplive/smil:jltv.smil/playlist.m3u8
 #EXTINF:-1,ערוץ 24 
