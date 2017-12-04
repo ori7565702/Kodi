@@ -17,8 +17,8 @@ rtmp://185.102.218.67:80/C38/C38_720P.stream
 http://146.185.61.140:1935/ILAND/smil:iland.smil/playlist.m3u8
 #EXTINF:-1,ערוץ 9 HD
 http://besttv199.aoslive.it.best-tv.com/hls-live/contactgbs-gostreaming1/_definst_/live.m3u8
-#EXTINF:-1,JLTV
-http://52.40.109.131:1935/rtplive/smil:jltv.smil/playlist.m3u8
+#EXTINF:-1,וואלה חדשות HD
+https://31-168-228-117.vidnt.com/walla_ulpanRepeat/_definst_/smil:ulpan.smil/playlist.m3u8
 #EXTINF:-1,כאן 11 HD
 http://82.80.192.27/ipbc_IPBCchannel11LVMRepeat/_definst_/smil:IPBCchannel11LVM.smil/playlist.m3u8
 #EXTINF:-1,ערוץ 12 HD
@@ -41,6 +41,8 @@ http://keshethlslive-lh.akamaihd.net/i/lin1_1@364366/master.m3u8
 https://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/playlist.m3u8
 #EXTINF:-1,ערוץ הקניות 
 rtmp://82.80.192.11/shoppingil_ShoppingIL21TVRepeat/_definst_/smil:ShoppingIL21TV_1.stream
+#EXTINF:-1,JLTV
+http://52.40.109.131:1935/rtplive/smil:jltv.smil/playlist.m3u8
 #EXTINF:-1,ערוץ 24 
 http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_800_av-b.m3u8
 #EXTINF:-1,ויוה
