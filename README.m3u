@@ -50,11 +50,7 @@ rtmp://185.102.218.67:80/C9/C9_720P.stream
 #EXTINF:-1,מכאן 33 HD
 http://82.80.192.2:1935/ipbc_IPBCmakantvLVMRepeat/_definst_/smil:IPBCmakantvLVM.smil/playlist.m3u8
 #EXTINF:-1,ויוה
-http://192.99.18.85:1935/live/viva/playlist.m3u8
-#EXTINF:-1,ויוה
 rtmp://185.102.218.67:80/C19/C19_720P.stream
-#EXTINF:-1,ויוה פלוס
-http://192.99.18.85:1935/live/vivaplus/playlist.m3u8
 #EXTINF:-1,ויוה פלוס
 rtmp://185.102.218.67:80/C32/C32_720P.stream
 #EXTINF:-1,נשיונאל גיאוגרפיק HD
@@ -103,5 +99,9 @@ http://192.99.18.85:1935/live/yesmovies1/playlist.m3u8
 http://192.99.18.85:1935/live/yesmovies4/playlist.m3u8
 #EXTINF:-1,yes 5 HD - מקור נוסף
 http://192.99.18.85:1935/live/kidsmovies/playlist.m3u8
+#EXTINF:-1,ויוה - מקור נוסף
+http://192.99.18.85:1935/live/viva/playlist.m3u8
+#EXTINF:-1,ויוה פלוס - מקור נוסף
+http://192.99.18.85:1935/live/vivaplus/playlist.m3u8
 #EXTINF:-1,בובספוג באנגלית
 https://x-vidi.herokuapp.com/https://videoserver2.org/live/dDQL8huszuTWs2kiQVdgcA/1512415559/2f2c4b3c9681d732d678ae4094241250.m3u8
