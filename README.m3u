@@ -53,10 +53,12 @@ http://82.80.192.2:1935/ipbc_IPBCmakantvLVMRepeat/_definst_/smil:IPBCmakantvLVM.
 rtmp://185.102.218.67:80/C19/C19_720P.stream
 #EXTINF:-1,ויוה פלוס
 rtmp://185.102.218.67:80/C32/C32_720P.stream
-#EXTINF:-1,נשיונאל גיאוגרפיק HD
-rtmp://185.102.218.67:80/C26/C26_720P.stream
 #EXTINF:-1,Discovery HD
 http://192.99.18.85:1935/live/discovery/playlist.m3u8
+#EXTINF:-1,נשיונאל גיאוגרפיק HD
+rtmp://185.102.218.67:80/C26/C26_720P.stream
+#EXTINF:-1,ערוץ ההיסטוריה
+http://192.99.18.85:1935/live/history/playlist.m3u8
 #EXTINF:-1,ספורט ONE HD
 rtmp://185.102.218.67:80/C10/C10_720P.stream
 #EXTINF:-1,ספורט 1 HD
@@ -93,14 +95,6 @@ rtmp://185.102.218.67:80/C46/C46_720P.stream
 https://stream71.shidur.net/htvlive2/_definst_/smil:live2.smil/playlist.m3u8
 #EXTINF:-1,ערוץ הכנסת
 http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8
-#EXTINF:-1,ערוץ טום וג'רי
-http://173.208.216.114:8082/live/tomnjerry/chunks.m3u8?nimblesessionid=1108030&wmsAuthSign=c2VydmVyX3RpbWU9MTIvOS8yMDE3IDY6MTA6MjAgUE0maGFzaF92YWx1ZT1LbTdzditHUHVSTlF3SkFDeUNIeHp3PT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1,ערוץ בובספוג
-http://173.208.216.114:8082/live/spongebob/chunks.m3u8?nimblesessionid=1108037&wmsAuthSign=c2VydmVyX3RpbWU9MTIvOS8yMDE3IDY6MTk6MDQgUE0maGFzaF92YWx1ZT1SWFVaQlFPbGNyOWoza0VtZ0JTbERRPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1,ערוץ לוני טונס
-http://173.208.216.114:8082/live/looney/chunks.m3u8?nimblesessionid=1108040&wmsAuthSign=c2VydmVyX3RpbWU9MTIvOS8yMDE3IDY6MjA6MTQgUE0maGFzaF92YWx1ZT11U3Mwd21qZ2pSSkdPek15K3c0b3ZnPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1,ערוץ צ'רלי צפ'לין
-http://edge-1124-us-la.filmon.com/live/2966.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe6eb245c5711d93727384cb926d08ddc2df56440bcbac36b01596beda1383ef53f1d41ed788dbe77f1981c3dd8fae9e3226a6e870aca72c243bc7d99a1679fd3815f67ece333cbbce9fbe2e1c63696530e4af197680ccf3fee22a8d1a430b004d09ef6e9f4d0213e07f720ece02c1a9616cb608a54e706d5bf97602d5c8b780f8ab15f0546eb214a53f22cec338f61494
 #EXTINF:-1,yes 1 HD - מקור נוסף
 http://192.99.18.85:1935/live/yesmovies1/playlist.m3u8
 #EXTINF:-1,yes 4 HD - מקור נוסף
