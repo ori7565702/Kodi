@@ -22,7 +22,7 @@ https://31-168-228-117.vidnt.com/walla_ulpanRepeat/_definst_/smil:ulpan.smil/pla
 #EXTINF:-1,כאן 11 HD
 http://82.80.192.27/ipbc_IPBCchannel11LVMRepeat/_definst_/smil:IPBCchannel11LVM.smil/playlist.m3u8
 #EXTINF:-1,ערוץ 12 HD
-http://l1.isramedia.net:1935/chan/smil:12wini.smil/chunklist_w1856548684_b500000_tkdG9rZW5zdGFydHRpbWU9MTUxMzQ0OTU4OSZ0b2tlbmVuZHRpbWU9MTUxMzQ1MzE4OSZ0b2tlbmhhc2g9UjlFRjNxOXVyaklUWDl1cjNwbjNzMmtFZDVCYXhpMHZFR1RpUC1XTTBXOD0=.m3u8
+rtmp://185.102.218.67:80/C8/C8_720P.stream
 #EXTINF:-1,ערוץ 13 HD
 http://besttv1.aoslive.it.best-tv.com/reshet/studio/index.m3u8
 #EXTINF:-1,ערוץ 14 HD
