@@ -107,3 +107,5 @@ http://192.99.18.85:1935/live/kidsmovies/playlist.m3u8
 http://192.99.18.85:1935/live/viva/playlist.m3u8
 #EXTINF:-1,ויוה פלוס - מקור נוסף
 http://192.99.18.85:1935/live/vivaplus/playlist.m3u8
+#EXTINF:-1,ויוה פלוס - מקffור נוסף
+http://192.99.18.85:1935/live/sport1/chunklist_w1892682151.m3u8
