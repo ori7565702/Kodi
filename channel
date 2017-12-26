@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1,חדש בHighTV
-https://content.jwplatform.com/manifests/mng3ZbnW.m3u8
 #EXTINF:-1,yes 1 HD
 rtmp://185.102.218.67:80/C1/C1_720P.stream
 #EXTINF:-1,yes 2 HD
@@ -83,6 +81,8 @@ rtmp://185.102.218.67:80/C14/C14_720P.stream
 rtmp://185.102.218.67:80/C34/C34_720P.stream
 #EXTINF:-1,ניק גוניור
 rtmp://185.102.218.67:80/C23/C23_720P.stream
+#EXTINF:-1,ערוץ דיסני
+http://192.99.18.85:1935/live/disney/playlist.m3u8
 #EXTINF:-1,הופ
 rtmp://185.102.218.67:80/C22/C22_720P.stream
 #EXTINF:-1,yes Kidz
