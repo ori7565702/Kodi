@@ -42,7 +42,7 @@ https://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/playlist.m3u8
 #EXTINF:-1,ערוץ הקניות 
 rtmp://82.80.192.11/shoppingil_ShoppingIL21TVRepeat/_definst_/smil:ShoppingIL21TV_1.stream
 #EXTINF:-1,ערוץ החדשות HD
-http://besttv1.aoslive.it.best-tv.com/hls-live/reshet-neveilan01/_definst_/live/stream_profile3.m3u8
+http://besttv10.aoslive.it.best-tv.com/hls-live/reshet-neveilan01/_definst_/live/stream_profile3.m3u8
 #EXTINF:-1,חדש ב-HighTV
 https://content.jwplatform.com/manifests/mng3ZbnW.m3u8
 #EXTINF:-1,ערוץ 24 
