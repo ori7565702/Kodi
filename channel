@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,ישנן תקלות בערוצים- אתכם הסליחה יתוקן בקרוב
+rtmp://185.102.218.67:80/C1/C1_720P.stream
 #EXTINF:-1,yes 1 HD
 rtmp://185.102.218.67:80/C1/C1_720P.stream
 #EXTINF:-1,yes 2 HD
