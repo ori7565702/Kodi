@@ -33,6 +33,8 @@ http://95.211.147.97:8088/live/shid002/playlist.m3u8?id=96979&wowzasessionid=308
 http://178.162.199.138:8088/live/shid0005/playlist.m3u8?id=96982&wowzasessionid=43708612&pk=4cce92183041fdbb55becdbfb3380a900c1450116e17f0f0062b3526cb4b6e02
 #EXTINF:-1,ספורט 5 לייב
 http://5.79.108.153:8088/live/shid0004/playlist.m3u8?id=96981&wowzasessionid=3665068207&pk=4cce92183041fdbb55becdbfb3380a900c1450116e17f0f0062b3526cb4b6e02
+#EXTINF:-1,ספורט 5 HD
+http://178.162.199.25:8088/live/shid001/playlist.m3u8?id=96978&wowzasessionid=3459867549&pk=4cce92183041fdbb55becdbfb3380a900c1450116e17f0f0062b3526cb4b6e02
 #EXTINF:-1,ערוץ האקדמיה ברשת - חדש ובלעדי
 http://besttv19.aoslive.it.best-tv.com/hls-live/eteacher-moe_2/_definst_/live.m3u8
 #EXTINF:-1,ערוץ הקבלה
