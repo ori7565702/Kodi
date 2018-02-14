@@ -8,7 +8,7 @@ https://31-168-228-117.vidnt.com/walla_ulpanRepeat/_definst_/smil:ulpan.smil/pla
 #EXTINF:-1,כאן 11 HD
 http://82.80.192.27/ipbc_IPBCchannel11LVMRepeat/_definst_/smil:IPBCchannel11LVM.smil/playlist.m3u8
 #EXTINF:-1,ערוץ 12 HD
-rtmp://185.102.218.67:80/C8/C8_720P.stream
+http://l5.isramedia.net:1935/chan/smil:12fd.smil/playlist.m3u8?tokenstarttime=1518633394&tokenendtime=1518636995&tokenhash=MHNRGYYGuc1rXyttk-e2JaembFuXbpcw3yMaMB-NnYo=
 #EXTINF:-1,ערוץ 13 HD
 http://besttv10.aoslive.it.best-tv.com/reshet/studio/index.m3u8
 #EXTINF:-1,ערוץ 14 HD
@@ -25,6 +25,8 @@ http://besttv10.aoslive.it.best-tv.com/hls-live/reshet-neveilan01/_definst_/live
 rtmp://185.102.218.67:80/C9/C9_720P.stream
 #EXTINF:-1,מכאן 33 HD
 http://82.80.192.2:1935/ipbc_IPBCmakantvLVMRepeat/_definst_/smil:IPBCmakantvLVM.smil/playlist.m3u8
+#EXTINF:-1,ספורט 1
+http://178.162.199.73:8088/live/shid0003/playlist.m3u8?id=96980&wowzasessionid=3653238982&pk=4cce92183041fdbb55becdbfb3380a900c1450116e17f0f0062b3526cb4b6e02
 #EXTINF:-1,ערוץ האקדמיה ברשת - חדש ובלעדי
 http://besttv19.aoslive.it.best-tv.com/hls-live/eteacher-moe_2/_definst_/live.m3u8
 #EXTINF:-1,ערוץ הקבלה
