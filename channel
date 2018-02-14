@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1,HighTV
 rtmp://185.102.218.67:80/C1/C1_720P.stream
-#EXTINF:-1,ערוץ האקדמיה - חדש ובלעדי
-http://besttv19.aoslive.it.best-tv.com/hls-live/eteacher-moe_2/_definst_/live.m3u8
 #EXTINF:-1,ערוץ 9 HD
 http://besttv199.aoslive.it.best-tv.com/hls-live/contactgbs-gostreaming1/_definst_/live.m3u8
 #EXTINF:-1,וואלה חדשות HD
@@ -27,6 +25,8 @@ http://besttv10.aoslive.it.best-tv.com/hls-live/reshet-neveilan01/_definst_/live
 rtmp://185.102.218.67:80/C9/C9_720P.stream
 #EXTINF:-1,מכאן 33 HD
 http://82.80.192.2:1935/ipbc_IPBCmakantvLVMRepeat/_definst_/smil:IPBCmakantvLVM.smil/playlist.m3u8
+#EXTINF:-1,ערוץ האקדמיה ברשת - חדש ובלעדי
+http://besttv19.aoslive.it.best-tv.com/hls-live/eteacher-moe_2/_definst_/live.m3u8
 #EXTINF:-1,ערוץ הקבלה
 http://edge1.il.kab.tv/rtplive/tv66-heb-high.stream/playlist.m3u8
 #EXTINF:-1,ערוץ מאיר
