@@ -26,13 +26,13 @@ rtmp://185.102.218.67:80/C9/C9_720P.stream
 #EXTINF:-1,מכאן 33 HD
 http://82.80.192.2:1935/ipbc_IPBCmakantvLVMRepeat/_definst_/smil:IPBCmakantvLVM.smil/playlist.m3u8
 #EXTINF:-1,ספורט 1
-http://178.162.199.73:8088/live/shid0003/playlist.m3u8?id=96980&wowzasessionid=3653238982&pk=4cce92183041fdbb55becdbfb3380a900c1450116e17f0f0062b3526cb4b6e02
+http://178.162.199.155:8088/live/shido03/playlist.m3u8?id=97603&wowzasessionid=3141577340&pk=4cce92183041fdbb55becdbfb3380a900c1450116e17f0f0062b3526cb4b6e02
 #EXTINF:-1,ספורט 2
-http://95.211.147.97:8088/live/shid002/playlist.m3u8?id=96979&wowzasessionid=3080749893&pk=4cce92183041fdbb55becdbfb3380a900c1450116e17f0f0062b3526cb4b6e02
+http://178.162.199.131:8088/live/shido02/playlist.m3u8?id=97602&wowzasessionid=943761724&pk=4cce92183041fdbb55becdbfb3380a900c1450116e17f0f0062b3526cb4b6e02
 #EXTINF:-1,ספורט 5
-http://178.162.199.138:8088/live/shid0005/playlist.m3u8?id=96982&wowzasessionid=43708612&pk=4cce92183041fdbb55becdbfb3380a900c1450116e17f0f0062b3526cb4b6e02
+http://178.162.199.73:8088/live/shido05/playlist.m3u8?id=97605&wowzasessionid=3603816647&pk=4cce92183041fdbb55becdbfb3380a900c1450116e17f0f0062b3526cb4b6e02
 #EXTINF:-1,ספורט 5 לייב
-http://5.79.108.153:8088/live/shid0004/playlist.m3u8?id=96981&wowzasessionid=3665068207&pk=4cce92183041fdbb55becdbfb3380a900c1450116e17f0f0062b3526cb4b6e02
+http://178.162.199.131:8088/live/shido04/playlist.m3u8?id=97604&wowzasessionid=282426022&pk=4cce92183041fdbb55becdbfb3380a900c1450116e17f0f0062b3526cb4b6e02
 #EXTINF:-1,ספורט 5 HD
 http://178.162.199.25:8088/live/shid001/playlist.m3u8?id=96978&wowzasessionid=3459867549&pk=4cce92183041fdbb55becdbfb3380a900c1450116e17f0f0062b3526cb4b6e02
 #EXTINF:-1,ערוץ האקדמיה ברשת - חדש ובלעדי
