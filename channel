@@ -21,6 +21,8 @@ https://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/playlist.m3u8
 rtmp://82.80.192.11/shoppingil_ShoppingIL21TVRepeat/_definst_/smil:ShoppingIL21TV_1.stream
 #EXTINF:-1,ערוץ החדשות HD
 http://besttv10.aoslive.it.best-tv.com/hls-live/reshet-neveilan01/_definst_/live/stream_profile3.m3u8
+#EXTINF:-1,ערוץ 23
+http://IL28.cast-tv.com:1935/25400_LIVE_Live2018_1.stream/_definst_/25400_LIVE_Free734777_1.stream/playlist.m3u8
 #EXTINF:-1,ערוץ 24 
 rtmp://185.102.218.67:80/C9/C9_720P.stream
 #EXTINF:-1,מכאן 33 HD
