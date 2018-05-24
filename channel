@@ -31,8 +31,8 @@ http://82.80.192.2:1935/ipbc_IPBCmakantvLVMRepeat/_definst_/smil:IPBCmakantvLVM.
 http://178.162.199.155:8088/live/shido03/playlist.m3u8?id=97603&wowzasessionid=3141577340&pk=4cce92183041fdbb55becdbfb3380a900c1450116e17f0f0062b3526cb4b6e02
 #EXTINF:-1,ספורט 2
 http://178.162.199.131:8088/live/shido02/playlist.m3u8?id=97602&wowzasessionid=943761724&pk=4cce92183041fdbb55becdbfb3380a900c1450116e17f0f0062b3526cb4b6e02
-#EXTINF:-1,ספורט 5
-http://sport5
+#EXTINF:-1,ספורט 5 פלוס
+http://osasnmioa10mf.tarefet.com:8080/hls/sport5plus.m3u8
 #EXTINF:-1,ספורט 5 לייב
 http://178.162.199.131:8088/live/shido04/playlist.m3u8?id=97604&wowzasessionid=282426022&pk=4cce92183041fdbb55becdbfb3380a900c1450116e17f0f0062b3526cb4b6e02
 #EXTINF:-1,ספורט 5 HD
