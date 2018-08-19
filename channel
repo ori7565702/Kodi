@@ -6,13 +6,13 @@ http://besttv199.aoslive.it.best-tv.com/hls-live/contactgbs-gostreaming1/_defins
 #EXTINF:-1,וואלה חדשות HD
 https://31-168-228-117.vidnt.com/walla_ulpanRepeat/_definst_/smil:ulpan.smil/playlist.m3u8
 #EXTINF:-1,כאן 11 HD
-https://kan-11.akamaized.net/hls/live/677154/KAN11/master.m3u8
+https://82-80-192-27.vidnt.com/ipbc_IPBCchannel11LVMRepeat/_definst_/smil:IPBCchannel11LVM.smil/playlist.m3u8
 #EXTINF:-1,ערוץ 12 HD
-http://keshethlslive-i.akamaihd.net/hls/live/512033/CH2LIVE_HIGH/index_1400.m3u8
+http://94.130.52.246:1935/bitrate14/smil:24583_LIVE_Bitrat14.smil/playlist.m3u8
 #EXTINF:-1,ערוץ 13 HD
-http://besttv1.aoslive.it.best-tv.com/reshet/studio/index.m3u8
+http://besttv61.aoslive.it.best-tv.com/reshet/applicaster/index_1.m3u8
 #EXTINF:-1,ערוץ 14 HD
-http://nana10-hdl-il-sw.ctedgecdn.net/Nana10-Live/amlst:hd_,500,1000,1200,2400,/manifest.m3u8
+https://nana10-hdl-il-sw.ctedgecdn.net/10tv_Desktop/index.m3u8
 #EXTINF:-1,JLTV
 http://52.40.109.131:1935/rtplive/smil:jltv.smil/playlist.m3u8
 #EXTINF:-1,ערוץ 20 
