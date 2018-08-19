@@ -18,15 +18,15 @@ http://52.40.109.131:1935/rtplive/smil:jltv.smil/playlist.m3u8
 #EXTINF:-1,ערוץ 20 
 https://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/playlist.m3u8
 #EXTINF:-1,ערוץ הקניות 
-rtmp://82.80.192.11/shoppingil_ShoppingIL21TVRepeat/_definst_/smil:ShoppingIL21TV_1.stream
+http://82.80.192.30/shoppingil_ShoppingIL21TVRepeat/_definst_/smil:ShoppingIL21TV.smil/playlist.m3u8
 #EXTINF:-1,ערוץ החדשות HD
-https://besttv511.aoslive.it.best-tv.com/egress/bhandler/reshet/neveilan01/playlist.m3u8
-#EXTINF:-1,ערוץ 23
-http://IL28.cast-tv.com:1935/25400_LIVE_Live2018_1.stream/_definst_/25400_LIVE_Free734777_1.stream/playlist.m3u8
+http://ch2live-i.akamaihd.net/hls/live/252343/252343/playlist.m3u8
+#EXTINF:-1,כאן חינוכית
+https://82-80-192-30.vidnt.com/ipbc_IPBCchannel23LVMRepeat/_definst_/smil:IPBCchannel23LVM.smil/playlist.m3u8
 #EXTINF:-1,ערוץ 24 
-http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_850_av-p.m3u8
+http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_2200_av-b.m3u8
 #EXTINF:-1,מכאן 33 HD
-https://kan-33.akamaized.net/hls/live/678829/KAN33/master.m3u8
+https://62-90-90-52.vidnt.com/ipbc_IPBCmakantvLVMRepeat/_definst_/smil:IPBCmakantvLVM.smil/playlist.m3u8
 #EXTINF:-1,ספורט 1
 http://p24.quest123.top:8088/live/nn003/playlist.m3u8?id=98922&wowzasessionid=3149312251&pk=4cce92183041fdbb55becdbfb3380a900c1450116e17f0f0062b3526cb4b6e02
 #EXTINF:-1,ספורט 2
@@ -36,7 +36,7 @@ http://osasnmioa10mf.tarefet.com:8080/hls/sport5plus.m3u8
 #EXTINF:-1,ספורט 5 לייב
 http://p15.quest123.top:8088/live/nn004/playlist.m3u8?id=98923&wowzasessionid=728456324&pk=4cce92183041fdbb55becdbfb3380a900c1450116e17f0f0062b3526cb4b6e02
 #EXTINF:-1,ספורט 5 HD
-http://sport5_live1-lh.akamaihd.net/i/live3_0@129322/master.m3u8?sd=10&rebase=on
+http://sport5_live1-lh.akamaihd.net/i/live3_0@129322/master.m3u8
 #EXTINF:-1,ערוץ האקדמיה ברשת - חדש ובלעדי
 http://besttv19.aoslive.it.best-tv.com/hls-live/eteacher-moe_2/_definst_/live.m3u8
 #EXTINF:-1,ערוץ הקבלה
@@ -44,6 +44,6 @@ http://edge1.il.kab.tv/rtplive/tv66-heb-high.stream/playlist.m3u8
 #EXTINF:-1,ערוץ מאיר
 rtmp://185.102.218.67:80/C46/C46_720P.stream
 #EXTINF:-1,ערוץ הידברות
-https://stream71.shidur.net/htvlive2/_definst_/smil:live2.smil/playlist.m3u8
+https://srv11.shidur.net/htvlive2/_definst_/smil:live2.smil/playlist.m3u8
 #EXTINF:-1,ערוץ הכנסת
 http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8
