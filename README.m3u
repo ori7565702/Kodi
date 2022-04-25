@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,בדיקה
-https://uload.ru.com/cdn/premium140/chunks.m3u8
+https://uload.ru.com/cdn/premium144/chunks.m3u8
 #EXTINF:-1,Iland HD
 http://146.185.61.140:1935/ILAND/smil:iland.smil/playlist.m3u8
 #EXTINF:-1,ערוץ 9 HD
@@ -23,6 +23,4 @@ http://edge1.il.kab.tv/rtplive/tv66-heb-high.stream/playlist.m3u8
 https://stream71.shidur.net/htvlive2/_definst_/smil:live2.smil/playlist.m3u8
 #EXTINF:-1,ערוץ הכנסת
 http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8   
-EXTINF:-1,בדיקה
-https://uload.ru.com/cdn/premium140/chunks.m3u8
  
